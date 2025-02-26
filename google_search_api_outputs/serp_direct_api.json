@@ -1,0 +1,416 @@
+{
+    "general": {
+        "search_engine": "google",
+        "query": "ollama",
+        "results_cnt": 28300000,
+        "search_time": 0.19,
+        "language": "en",
+        "location": "United States",
+        "mobile": false,
+        "basic_view": false,
+        "search_type": "text",
+        "page_title": "ollama - Google Search",
+        "timestamp": "2025-02-18T11:30:49.887Z"
+    },
+    "input": {
+        "original_url": "https://www.google.com/search?q=ollama&brd_json=1",
+        "request_id": "hl_4*******5ki"
+    },
+    "navigation": [
+        {
+            "title": "Images",
+            "href": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&q=ollama&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i2z_8NKxsUrhjsoNgaedRpvmqVN0-mOdJGwDKTaG_DuHsb6Jl9ZgNVohdwtHQkyxkkSSoet8vY_eFcNmRS9Ffmh2nvjINwA1jw1p9kZu2V2KEcW0V-SRlzInoPeeNMhUZ6PDWh2Q&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQtKgLegQIGhAB"
+        },
+        {
+            "title": "Videos",
+            "href": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&q=ollama&udm=7&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i2z_8NKxsUrhjsoNgaedRpvmqVN0-mOdJGwDKTaG_DuHsb6Jl9ZgNVohdwtHQkyxkkSSoet8vY_eFcNmRS9Ffmh2nvjINwA1jw1p9kZu2V2KEcW0V-SRlzInoPeeNMhUZ6PDWh2Q&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQtKgLegQIGRAB"
+        },
+        {
+            "title": "News",
+            "href": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&q=ollama&tbm=nws&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i2z_8NKxsUrhjsoNgaedRpvmqVN0-mOdJGwDKTaG_DuHsb6Jl9ZgNVohdwtHQkyxkkSSoet8vY_eFcNmRS9Ffmh2nvjINwA1jw1p9kZu2V2KEcW0V-SRlzInoPeeNMhUZ6PDWh2Q&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ0pQJegQIGBAB"
+        },
+        {
+            "title": "Shopping",
+            "href": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&q=ollama&udm=28&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i2z_8NKxsUrhjsoNgaedRpvmqVN0-mOdJGwDKTaG_DuHsb6Jl9ZgNVohdwtHQkyxkkSSoet8vY_eFcNmRS9Ffmh2nvjINwA1jw1p9kZu2V2KEcW0V-SRlzInoPeeNMhUZ6PDWh2Q&ved=1t:220175&ictx=111"
+        },
+        {
+            "title": "Maps",
+            "href": "https://maps.google.com/maps?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&output=search&q=ollama&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i2z_8NKxsUrhjsoNgaedRpvmqVN0-mOdJGwDKTaG_DuHsb6Jl9ZgNVohdwtHQkyxkkSSoet8vY_eFcNmRS9Ffmh2nvjINwA1jw1p9kZu2V2KEcW0V-SRlzInoPeeNMhUZ6PDWh2Q&entry=mc&ved=1t:200715&ictx=111"
+        },
+        {
+            "title": "Forums",
+            "href": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&q=ollama&udm=18&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i2z_8NKxsUrhjsoNgaedRpvmqVN0-mOdJGwDKTaG_DuHsb6Jl9ZgNVohdwtHQkyxkkSSoet8vY_eFcNmRS9Ffmh2nvjINwA1jw1p9kZu2V2KEcW0V-SRlzInoPeeNMhUZ6PDWh2Q&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQs6gLegQIFBAB"
+        }
+    ],
+    "organic": [
+        {
+            "link": "https://ollama.com/",
+            "display_link": "https://ollama.com",
+            "title": "Ollama",
+            "description": "Get up and running with large language models.",
+            "extensions": [
+                {
+                    "type": "site_link",
+                    "extended": true,
+                    "text": "Download Ollama",
+                    "link": "https://ollama.com/download",
+                    "rank": 1
+                },
+                {
+                    "type": "site_link",
+                    "extended": true,
+                    "text": "Library",
+                    "link": "https://ollama.com/library",
+                    "rank": 2
+                },
+                {
+                    "type": "site_link",
+                    "extended": true,
+                    "text": "Explore models",
+                    "link": "https://ollama.com/models",
+                    "rank": 3
+                },
+                {
+                    "type": "site_link",
+                    "extended": true,
+                    "text": "Download Ollama on Windows",
+                    "link": "https://ollama.com/download/windows",
+                    "rank": 4
+                },
+                {
+                    "type": "site_link",
+                    "extended": true,
+                    "text": "Llama3.3",
+                    "link": "https://ollama.com/library/llama3.3",
+                    "rank": 5
+                },
+                {
+                    "type": "site_link",
+                    "extended": true,
+                    "text": "More results from ollama.com \u00bb",
+                    "link": "https://www.google.com/search?q=ollama+site:ollama.com&sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQrAN6BAgQEAE",
+                    "rank": 6
+                }
+            ],
+            "rank": 1,
+            "global_rank": 1
+        },
+        {
+            "link": "https://github.com/ollama/ollama",
+            "display_link": "https://github.com \u203a ollama \u203a ollama",
+            "title": "ollama/ollama: Get up and running with Llama 3.3 ...",
+            "description": "Ollama is a lightweight, extensible framework for building and running language models on the local machine.",
+            "rank": 2,
+            "global_rank": 2
+        },
+        {
+            "link": "https://www.reddit.com/r/ollama/",
+            "display_link": "47.1K+ followers",
+            "title": "r/ollama",
+            "description": "Hi! Thanks to the power of the \u00b7 r/ollama. community,. DataBridge. just hit 350 stars! As a token of our gratitude, we're committing to implementing the top ...",
+            "rank": 3,
+            "global_rank": 10
+        },
+        {
+            "link": "https://github.com/ollama",
+            "display_link": "https://github.com \u203a ollama",
+            "title": "Ollama",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-S0fZsgiHF0DtnDMwHHf2SLogVqDMY4T33qybPYezKkkY3knA1xQIQi4&usqp=CAE&s",
+            "image_alt": "ollama from github.com",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-S0fZsgiHF0DtnDMwHHf2SLogVqDMY4T33qybPYezKkkY3knA1xQIQi4&usqp=CAE&s",
+            "rank": 4,
+            "global_rank": 11
+        }
+    ],
+    "videos": [
+        {
+            "link": "https://www.youtube.com/watch?v=UtSSMs6ObqY",
+            "duration": "14:02",
+            "duration_sec": 842,
+            "author": "YouTube Tech With Tim",
+            "date": "1 month ago",
+            "image": "data:image/jpeg;base64,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",
+            "image_base64": "data:image/jpeg;base64,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",
+            "rank": 1,
+            "global_rank": 7
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=KX_jVyhrnWk",
+            "duration": "44:50",
+            "duration_sec": 2690,
+            "author": "YouTube dotnet",
+            "date": "5 days ago",
+            "image": "data:image/jpeg;base64,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",
+            "image_base64": "data:image/jpeg;base64,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",
+            "rank": 2,
+            "global_rank": 8
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=GWB9ApTPTv4",
+            "duration": "2:57:24",
+            "duration_sec": 10644,
+            "author": "YouTube freeCodeCamp.org",
+            "date": "Nov 26, 2024",
+            "image": "data:image/jpeg;base64,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",
+            "image_base64": "data:image/jpeg;base64,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",
+            "rank": 3,
+            "global_rank": 9
+        }
+    ],
+    "images": [
+        {
+            "link": "https://github.com/ollama/ollama",
+            "source": "GitHub - ollama/ollama: Get up and running with Llama 3.3 ...GitHub",
+            "source_logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAbFBMVEX///8kKS4AAAAlKi/8/Pz4+PgTGiBBRUkWHCK0tbdmaW3o6Ojd3t8qLzQhJyyRk5QaICVHS07AwcJLUFMABhIKExt+gILV1tdXWl26u7wAAAcxNjsJFh/Q0NGsra8dIyp1eHs6PkKipKVeYmQpeLdAAAABMElEQVQokWWR65KDIAyFIdwVUBCs1lrt+v7vuAG7HTubHzqTk8vJByE1eGsa5ZxqTMvJJWyXQXpKvYTc2U9axAk8YxSDMQ9HFO/8U8me1jwqtM/BVIXPqnfDXWIxtkkYFh1inT/oNPIYAOABoCLvkp5wD++AQamobspnxUTHSZs9g+fVogHmt7b+HvEqrNqXGY1keRdXQYyZ5ZGojSZDvsIk2g/EeZrjtxA3719FuP/v8A5HsdR9gcND2DaQPbP+Za+CVT36ITNQna62xJ4pg5m0m2tCGj9E44j8y4GIZLdDcuEpCujgvKcVCbETdGRZprU03AaJ7GWBiNhfeW3jrc5qD03ppmZ+PtQSfsy5xB6aafX8W2gU+MOeAr7U/PHI7XgPp4AG7fVcYc8dwtp3+S8X9RFXlAK8xwAAAABJRU5ErkJggg==",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0anpGwaDqtWbyD3vw37qJt4Dpc7ErUAQc5yyF_w6cguZCkIHLi2tWj8&s",
+            "image_alt": "GitHub - ollama/ollama: Get up and running with Llama 3.3 ...",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0anpGwaDqtWbyD3vw37qJt4Dpc7ErUAQc5yyF_w6cguZCkIHLi2tWj8&s",
+            "rank": 1,
+            "global_rank": 12
+        },
+        {
+            "link": "https://www.britannica.com/sports/ollama",
+            "source": "Ollama | Mesoamerican sport | BritannicaBritannica",
+            "source_logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAPFBMVEULQGtngpxBYoV8kqgKQGwBOmn8/f4LQGwLQGwKPmultMMAL2O6xtJUcY8vVnwZRnHo7fHZ4eeQpLYADlT5dXr+AAAACnRSTlPu////////hIMKQVueTAAAAQ5JREFUKJFdkouSwyAIRQWFpjxEzf//69I2j24zmQlwgBuU8txKOx46jVa2Z3lcXuv9th/lyKfoUAHwLDvjrQM4OlY4q86CXtE9We30AwCn5+s/IFxAxKQuiG9AIG26GA5aoAegd6dlbquKy0eEWgkkauTLaoVsNAXSJYwSUhN1y2h9SVh6uCSKClvTsAlmKW4W1CaLFqrMPFWXQY4uRjozUOkD2FAxx8b8GB+gva0ZimO44uTBLPT63X0NtsEaY3TlaTzWfgwomTMWjdnWkHf+B1BUHjD7mDiBGYKuI9EdrHtqhMGu34fYtEeKY3T9fx/ZT30w6HXv5SbZvuodv5aBXMSvgq3c60N6Ncr1+QN/aQ9xTDOMGQAAAABJRU5ErkJggg==",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5ZCpZAxWaqrsHC_gfX3jqCQzrbcWy4MnILvSkpcUua_4jnkJvWISCtc&s",
+            "image_alt": "Ollama | Mesoamerican sport | Britannica",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5ZCpZAxWaqrsHC_gfX3jqCQzrbcWy4MnILvSkpcUua_4jnkJvWISCtc&s",
+            "rank": 2,
+            "global_rank": 13
+        },
+        {
+            "link": "https://ollama.com/blog/tool-support",
+            "source": "Tool support \u00b7 Ollama BlogOllama",
+            "source_logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAYFBMVEVHcEz+/v7////////////////BwcH////9/f3MzMz///////8AAAAeHh6lpaX///8FBQXW1talpaWzs7Pz8/Obm5tsbGyRkZFTU1Pj4+MWFhaEhIREREQfHx8yMjIuLi6qAzOYAAAAD3RSTlMAHqAu4LH+Z/r+WPEs7ljntG5AAAABF0lEQVQokWVS6ZqDIAzEqhy1bcINatv3f8tNUFf32/wgOIPJ5BBis06NA8Awqk5crb/Br936E79P4GVgNEgP0/3AlQaPxTBhCnrQan+vAVbnIhPRuRVAt3/6iQC0sqyIa5EW6XPiPC0vGo9LCAt6g00B6WxS8Ptx7N3n2wjohGKXKcSmikJmvigx0mmxnnVUtHSOguqFJTGia9Xs00LHINo1g1vkmtJqFge5PWuER7Ax1RBqihaoRCY4FMyGGB2dJtzM0EJtyQOEHKWMmS57cpYbC6txZKyuxCaXC9zSQWilsBQukFviES7GyW97E9/+xP17byK3fbYnYee97TSoTeFhs1HHCF/PK/F8nUN/XJfh8WdP/q3PD2vRHIXx9Wm1AAAAAElFTkSuQmCC",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYMqe__7lViE6YTC5g6ALcXmccb5Tb_-lnZUEWpMEdJzCkAia5I30nRIc&s",
+            "image_alt": "Tool support \u00b7 Ollama Blog",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYMqe__7lViE6YTC5g6ALcXmccb5Tb_-lnZUEWpMEdJzCkAia5I30nRIc&s",
+            "rank": 3,
+            "global_rank": 14
+        }
+    ],
+    "perspectives": [
+        {
+            "title": "Are Ollama and Open WebUI the best self-hosted alternatives for LLMs?",
+            "author": "r/selfhosted",
+            "source": "Reddit \u00b7 4 days ago",
+            "date": "140+ comments4 days ago",
+            "link": "https://www.reddit.com/r/selfhosted/comments/1ioqkjm/are_ollama_and_open_webui_the_best_selfhosted/",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-_eiJebjMd2ohdhtSgzrBlZgrlN_hrbsI_dFucBU&usqp=CAI&s",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-_eiJebjMd2ohdhtSgzrBlZgrlN_hrbsI_dFucBU&usqp=CAI&s"
+        },
+        {
+            "author": "tom_doerr",
+            "source": "X (Twitter) \u00b7 3 days ago",
+            "text": "Ollama OCR: Extract text from images using vision models",
+            "date": "3 days ago",
+            "link": "https://twitter.com/tom_doerr/status/1890636868619833784?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcD0UKsZtZFEXcTwJZhOitkmJyie_CAW54nqo9szutYQ06vYNpewzmqVQOz5uapjGeCA_yus&s=10",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcD0UKsZtZFEXcTwJZhOitkmJyie_CAW54nqo9szutYQ06vYNpewzmqVQOz5uapjGeCA_yus&s=10"
+        },
+        {
+            "author": "nunet_global",
+            "source": "X (Twitter) \u00b7 20 hours ago",
+            "text": "Exciting Updates on Decentralized AI/ML \ud83d\udd25 After successfully testing Ollama deployments, it\u2019s time to bring our next wave of open-source innovations to the community! \ud83c\udf0d \u2728 At the top of our list: @OpenWebUI\u2014which already offers an image to run over an Ollama backend. These\u2026",
+            "date": "20 hours ago",
+            "link": "https://twitter.com/nunet_global/status/1891505555518509179?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9f7K8rEEZFQ3uSTO1PVoF33keje8UC8xrnZ_3YXyD_r4-jXPOQKgMxqAkImKBTdYHXLQ0eQ&s=10",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9f7K8rEEZFQ3uSTO1PVoF33keje8UC8xrnZ_3YXyD_r4-jXPOQKgMxqAkImKBTdYHXLQ0eQ&s=10"
+        }
+    ],
+    "pagination": {
+        "pages": [
+            {
+                "page": 2,
+                "start": 10,
+                "link": "https://www.google.com/search?q=ollama&sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&ei=aW-0Z4O1F-P-ptQPhJDQqQQ&start=10&sa=N&sstk=Af40H4WzTVeqg3aW3AA9XlNI0hXxtANbhlwozYW2tJvwvcTwfQKXWCHoxuVuVem0VDLpSC5bsAZT0pekgU2dbTXMxalDzS6GdUl5zA&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ8tMDegQILhAE"
+            },
+            {
+                "page": 3,
+                "start": 20,
+                "link": "https://www.google.com/search?q=ollama&sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&ei=aW-0Z4O1F-P-ptQPhJDQqQQ&start=20&sa=N&sstk=Af40H4WzTVeqg3aW3AA9XlNI0hXxtANbhlwozYW2tJvwvcTwfQKXWCHoxuVuVem0VDLpSC5bsAZT0pekgU2dbTXMxalDzS6GdUl5zA&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ8tMDegQILhAG"
+            },
+            {
+                "page": 4,
+                "start": 30,
+                "link": "https://www.google.com/search?q=ollama&sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&ei=aW-0Z4O1F-P-ptQPhJDQqQQ&start=30&sa=N&sstk=Af40H4WzTVeqg3aW3AA9XlNI0hXxtANbhlwozYW2tJvwvcTwfQKXWCHoxuVuVem0VDLpSC5bsAZT0pekgU2dbTXMxalDzS6GdUl5zA&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ8tMDegQILhAI"
+            },
+            {
+                "page": 5,
+                "start": 40,
+                "link": "https://www.google.com/search?q=ollama&sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&ei=aW-0Z4O1F-P-ptQPhJDQqQQ&start=40&sa=N&sstk=Af40H4WzTVeqg3aW3AA9XlNI0hXxtANbhlwozYW2tJvwvcTwfQKXWCHoxuVuVem0VDLpSC5bsAZT0pekgU2dbTXMxalDzS6GdUl5zA&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ8tMDegQILhAK"
+            },
+            {
+                "page": 6,
+                "start": 50,
+                "link": "https://www.google.com/search?q=ollama&sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&ei=aW-0Z4O1F-P-ptQPhJDQqQQ&start=50&sa=N&sstk=Af40H4WzTVeqg3aW3AA9XlNI0hXxtANbhlwozYW2tJvwvcTwfQKXWCHoxuVuVem0VDLpSC5bsAZT0pekgU2dbTXMxalDzS6GdUl5zA&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ8tMDegQILhAM"
+            },
+            {
+                "page": 7,
+                "start": 60,
+                "link": "https://www.google.com/search?q=ollama&sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&ei=aW-0Z4O1F-P-ptQPhJDQqQQ&start=60&sa=N&sstk=Af40H4WzTVeqg3aW3AA9XlNI0hXxtANbhlwozYW2tJvwvcTwfQKXWCHoxuVuVem0VDLpSC5bsAZT0pekgU2dbTXMxalDzS6GdUl5zA&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ8tMDegQILhAO"
+            }
+        ],
+        "current_page": 1,
+        "next_page": 2,
+        "next_page_start": 10,
+        "next_page_link": "https://www.google.com/search?q=ollama&sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&ei=aW-0Z4O1F-P-ptQPhJDQqQQ&start=10&sa=N&sstk=Af40H4WzTVeqg3aW3AA9XlNI0hXxtANbhlwozYW2tJvwvcTwfQKXWCHoxuVuVem0VDLpSC5bsAZT0pekgU2dbTXMxalDzS6GdUl5zA&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ8tMDegQILhAE"
+    },
+    "related": [
+        {
+            "items": [
+                {
+                    "text": "Llama",
+                    "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Llama+(language+model)&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMzOyM2It8xL_sXIsIGF4RULPxeq-CsWHi4u_Vx9g_Ls5Kz0LCQFWQU55vFmBgiRSpOcqlyz9AokNYWm6RlFxqavWHi5uEGGGBqbVJQXZSNbk5xWZVBp9IqFi4sDpCIp1zjpFQs3FyeIk1ZQVVWAUJyeYmxpYFpmuIhVzCcnMTdRQSMnMS-9NDE9VSE3PyU1R_MWmyRDmF_458QZh9ne7atKK05Q5NKcFf3owD2rdYs4xAJS8wtyUhUSc4rzFYpTE4uSMxTS8otWcDACAFJpligOAQAA&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQs9oBKAB6BAg0EAk",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8f1LiFUMsAXxwWYM_58nX5GiD8i5aOqzQF7ys&s=0",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8f1LiFUMsAXxwWYM_58nX5GiD8i5aOqzQF7ys&s=0",
+                    "rank": 1
+                },
+                {
+                    "text": "Docker",
+                    "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Docker&stick=H4sIAAAAAAAAAOMwVOLSz9U3KM9OzkrP-sXIsIGF4RULPxevfrq-oWF2Rm5GvGVe8isWHi4kZUgKsgpyzOPNDBAilSY5Vblm6RVIagpN0zOKjE1fsfBycYMMMTQ2qSgvyka2JjmtyqDS6BULFxcHSEVSrnHSKxZuLk4QJ62gqqoAoTg9xdjSwLTMcBErm0t-cnZq0S02SYYwv_DPiTMOs73bV5VWnKDIpTkr-tGBe1brFnGIBaTmF-SkKiTmFOcrFKcmFiVnKKTlF63gYAQAfPmZ-vsAAAA&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQs9oBKAB6BAg0EA4",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfinmUYO3IDuZbuWGVgLfqH46Rfx8kYIRH4ZSyWxPuZCbJY-oI5sNq&s=0",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfinmUYO3IDuZbuWGVgLfqH46Rfx8kYIRH4ZSyWxPuZCbJY-oI5sNq&s=0",
+                    "rank": 2
+                },
+                {
+                    "text": "LangChain",
+                    "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=LangChain&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMzOKsgxjzcz-MXIsIGF4RULPxdUPCM3I94yL_kVCw8Xl36uvkF5dnJWehaSAqhGhEilSU5Vrll6BZKaQtP0jCJj01csvFzcIEMMjU0qyouyka1JTqsyqDR6xcLFxQFSkZRrnPSKhZuLE8RJK6iqKkAoTk8xtjQwLTNcxMrpk5iX7pyRmJl3i02SIcwv_HPijMNs7_ZVpRUnKHJpzop-dOCe1bpFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAQAj0zcBAQAA&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQs9oBKAB6BAg0EBM",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqD3WXk9doYRaOM-1X6VrETMZ7PjHLqjBs7G1T&s=0",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqD3WXk9doYRaOM-1X6VrETMZ7PjHLqjBs7G1T&s=0",
+                    "rank": 3
+                },
+                {
+                    "text": "llama.cpp",
+                    "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=llama.cpp&stick=H4sIAAAAAAAAAOMwVOLVT9c3NKw0yanKNUuv-MXIsIGF4RULPxdEPDsjNyPeMi_5FQsPF5d-rr5BeXZyVnoWkoKsghzzeDMDhAjMKCQ1habpGUXGpq9YeLm4QYYYGptUlBdlI1uTnFZlUGn0ioWLiwOkIinXOOkVCzcXJ4iTVlBVVYBQnJ5ibGlgWma4iJUzJycxN1EvuaDgFpskQ5hf-OfEGYfZ3u2rSitOUOTSnBX96MA9q3WLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgCWqatMAQEAAA&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQs9oBKAB6BAg0EBg",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYZJNxLE2bi9KASTeMeAe0QRk95H10kDIt-JIw21u4mlNpcvugDlwnpA&s=0",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYZJNxLE2bi9KASTeMeAe0QRk95H10kDIt-JIw21u4mlNpcvugDlwnpA&s=0",
+                    "rank": 4
+                },
+                {
+                    "text": "Claude",
+                    "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=claude.ai&stick=H4sIAAAAAAAAAOMwVOLVT9c3NMwuNE3PKDI2_cXIsIGF4RULPxdUPCM3I94yL_kVCw8Xl36uvkF5dnJWehaSgqyCHPN4MwOESKVJTlWuWXoFkhqo4a9YeLm4QYYYGptUlBdlI1uTnFZlUGn0ioWLiwOkIinXOOkVCzcXJ4iTVlBVVYBQnJ5ibGlgWma4iJUzOSexNCVVLzHzFpskQ5hf-OfEGYfZ3u2rSitOUOTSnBX96MA9q3WLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgB3ObhKAQEAAA&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQs9oBKAB6BAg0EB0",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wTWH-U8nua0KYyJCstMSWV5LUnq4Xopi2NOmDaIl6r9AYwpjRA&s=0",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wTWH-U8nua0KYyJCstMSWV5LUnq4Xopi2NOmDaIl6r9AYwpjRA&s=0",
+                    "rank": 5
+                },
+                {
+                    "text": "Visual Studio Code",
+                    "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Visual+Studio+Code&stick=H4sIAAAAAAAAAOMwVOLWz9U3MDQ2qSgvyv7FyLCBheEVCz8Xr366vqFhdkZuRrxlXvIrFh4uLpC68uzkrPQsJAVZBTnm8WYGCJFKk5yqXLP0CiQ1habpGUXGpq9YeLmQLUO2JjmtyqDS6BULFxcHSEVSrnHSKxZuLk4QJ62gqqoAoTg9xdjSwLTMcBGrUFhmcWlijkJwSWlKZr6Cc35K6i02SYYwv_DPiTMOs73bV5VWnKDIpTkr-tGBe1brFnGIBaTmF-SkKiTmFOcrFKcmFiVnKKTlF63gYAQACfYK_QgBAAA&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQs9oBKAB6BAg0ECI",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Yg_Q5LIkT9aZEvx_OfWIcBxcLyk7rhHuoaQ3&s=0",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Yg_Q5LIkT9aZEvx_OfWIcBxcLyk7rhHuoaQ3&s=0",
+                    "rank": 6
+                }
+            ],
+            "rank": 1,
+            "global_rank": 15
+        },
+        {
+            "text": "Ollama AI",
+            "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Ollama+AI&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ1QJ6BAhgEAE",
+            "rank": 2,
+            "global_rank": 16
+        },
+        {
+            "text": "Ollama github",
+            "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Ollama+github&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ1QJ6BAhdEAE",
+            "rank": 3,
+            "global_rank": 17
+        },
+        {
+            "text": "Ollama Python",
+            "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Ollama+Python&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ1QJ6BAhZEAE",
+            "rank": 4,
+            "global_rank": 18
+        },
+        {
+            "text": "Ollama models",
+            "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Ollama+models&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ1QJ6BAhVEAE",
+            "rank": 5,
+            "global_rank": 19
+        },
+        {
+            "text": "Ollama docker",
+            "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Ollama+docker&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ1QJ6BAhSEAE",
+            "rank": 6,
+            "global_rank": 20
+        },
+        {
+            "text": "Ollama Windows",
+            "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Ollama+Windows&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ1QJ6BAhNEAE",
+            "rank": 7,
+            "global_rank": 21
+        },
+        {
+            "text": "Is Ollama safe",
+            "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Is+Ollama+safe&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ1QJ6BAhIEAE",
+            "rank": 8,
+            "global_rank": 22
+        },
+        {
+            "text": "Ollama download",
+            "link": "https://www.google.com/search?sca_esv=f59d7152e7c7d7ed&gl=us&hl=en&udm=0&q=Ollama+download&sa=X&ved=2ahUKEwjDjYfIj82LAxVjv4kEHQQINEUQ1QJ6BAhkEAE",
+            "rank": 9,
+            "global_rank": 23
+        }
+    ],
+    "people_also_ask": [
+        {
+            "question": "What does Ollama do?",
+            "answer_link": "https://www.shepbryan.com/blog/ollama#:~:text=to%20your%20desktop.-,What%20is%20Ollama?,without%20reliance%20on%20cloud%20services.",
+            "rank": 1,
+            "global_rank": 3
+        },
+        {
+            "question": "Is Ollama similar to ChatGPT?",
+            "answer_source": "Ollama Vs Chatgpt Comparison | Restackio",
+            "answer_link": "https://www.restack.io/p/ollama-answer-vs-chatgpt-cat-ai#:~:text=In%20summary%2C%20the%20choice%20between,solution%20for%20conversational%20AI%20applications.",
+            "answer_display_link": "https://www.restack.io \u203a ollama-answer-vs-chatgpt-cat-aihttps://www.restack.io \u203a ollama-answer-vs-chatgpt-cat-ai",
+            "answers": [
+                {
+                    "type": "answer",
+                    "value": {
+                        "text": "In summary, the choice between Ollama and ChatGPT APIs largely depends on the specific requirements of the project. While Ollama offers flexibility and experimental features, ChatGPT provides a more stable and faster solution for conversational AI applications.Feb 5, 2025"
+                    },
+                    "rank": 1
+                }
+            ],
+            "rank": 2,
+            "global_rank": 4
+        },
+        {
+            "question": "What is Ollama Aztec?",
+            "answer_source": "Ulama (game) - Wikipedia",
+            "answer_link": "https://en.wikipedia.org/wiki/Ulama_(game)#:~:text=%C5%8Cllamaliztli%20was%20the%20Aztec%20name,Mexico%20to%20El%20Salvador%2C%20and",
+            "answer_display_link": "https://en.wikipedia.org \u203a wiki \u203a Ulama_(game)https://en.wikipedia.org \u203a wiki \u203a Ulama_(game)",
+            "answers": [
+                {
+                    "type": "answer",
+                    "value": {
+                        "text": "\u014cllamaliztli was the Aztec name for the Mesoamerican ballgame (meaning roughly the process of playing the ball game), whose roots extended back to at least the 2nd millennium BC and evidence of which has been found in nearly all Mesoamerican cultures in an area extending from modern-day Mexico to El Salvador, and ..."
+                    },
+                    "rank": 1
+                }
+            ],
+            "rank": 3,
+            "global_rank": 5
+        },
+        {
+            "question": "Is Ollama actually private?",
+            "answer_source": "Is it private and offline via ollama? Are all ollama models ... - Hacker News",
+            "answer_link": "https://news.ycombinator.com/item?id=37154479#:~:text=Are%20all%20ollama%20models%20private%20and%20offline%3F,-brucemacd%20on%20Aug&text=Yes%2C%20they%20are%20private%20and,information%20off%20your%20local%20system.",
+            "answer_display_link": "https://news.ycombinator.com \u203a itemhttps://news.ycombinator.com \u203a item",
+            "answers": [
+                {
+                    "type": "answer",
+                    "value": {
+                        "text": "Are all ollama models private and offline? Yes, they are private and offline in the sense that they are running entirely locally and do not send any information off your local system."
+                    },
+                    "rank": 1
+                }
+            ],
+            "rank": 4,
+            "global_rank": 6
+        }
+    ]
+}
