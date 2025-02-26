@@ -1,5 +1,7 @@
 # Google Search API
 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/serp-api/google-search) 
+
 > ⚠️ As of January 2025, [Google requires JavaScript](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/) to render search results. This update aims to block traditional bots, scrapers, and SEO tools that rely on non-JavaScript-based methods. As a result, businesses using Google Search for market research or ranking analysis must adopt tools that support JavaScript rendering.
 
 
