@@ -37,7 +37,7 @@ This repository provides two approaches for collecting Google SERP data:
 ## Free Scraper
 A lightweight Google scraper for basic data collection needs.
 
-<img width="700" alt="google-search-result" src="https://github.com/user-attachments/assets/58573147-5ac2-4cb3-bb5e-295d76f6972c" />
+<img width="700" alt="google-search-result" src="https://github.com/luminati-io/google-search-api/blob/main/images/416310595-58573147-5ac2-4cb3-bb5e-295d76f6972c.png" />
 
 ### Input Parameters
 
@@ -45,7 +45,7 @@ A lightweight Google scraper for basic data collection needs.
 - **Pages:** Number of Google pages to scrape data from
 
 ### Implementation
-Modify these parameters in the [Python file](https://github.com/triposat/Google-Search-API/blob/main/free_google_scraper/google_serp.py):
+Modify these parameters in the [Python file](https://github.com/luminati-io/Google-Search-API/blob/main/free_google_scraper/google_serp.py):
 
 ```python
 HEADLESS = False        
@@ -62,7 +62,7 @@ PAGES_PER_TERM = 3
 💡 **Tip:** Set `HEADLESS = False` to help avoid Google's detection mechanisms.
 
 ### Sample Output
-<img width="700" alt="google-serp-data" src="https://github.com/user-attachments/assets/c7048fc9-44c3-4553-8117-2b238d354f70" />
+<img width="700" alt="google-serp-data" src="https://github.com/luminati-io/google-search-api/blob/main/images/416109839-c7048fc9-44c3-4553-8117-2b238d354f70.png" />
 
 
 ### Limitations
@@ -77,7 +77,7 @@ Google implements several anti-scraping measures:
 
 After multiple requests, you'll likely encounter Google's CAPTCHA challenge:
 
-<img width="700" alt="google-captcha" src="https://github.com/user-attachments/assets/21ab3e9f-1162-4aef-9e22-fb08491dd928" />
+<img width="700" alt="google-captcha" src="https://github.com/luminati-io/google-search-api/blob/main/images/414117571-21ab3e9f-1162-4aef-9e22-fb08491dd928.png" />
 
 ## Bright Data Google Search API
 [Bright Data's Google Search API](https://brightdata.com/products/serp-api/google-search) provides real-user search results from Google using customizable search parameters. Built on the same advanced technology as the [SERP API](https://brightdata.com/products/serp-api), it delivers high success rates and robust performance for scraping publicly available data at scale.
@@ -96,7 +96,7 @@ After multiple requests, you'll likely encounter Google's CAPTCHA challenge:
 
 📌 Test it for free in our [SERP Playground](https://brightdata.com/products/serp-api/google-search):
 
-<img width="700" alt="bright-data-serp-api-playground" src="https://github.com/user-attachments/assets/8d516e08-37a1-4723-bf12-9a9da6a13b1a" />
+<img width="700" alt="bright-data-serp-api-playground" src="https://github.com/luminati-io/google-search-api/blob/main/images/416966701-8d516e08-37a1-4723-bf12-9a9da6a13b1a.png" />
 
 
 ### Getting Started
@@ -104,7 +104,7 @@ After multiple requests, you'll likely encounter Google's CAPTCHA challenge:
 1. **Prerequisites:**
     - Create a [Bright Data account](https://brightdata.com/) (new users receive a $5 credit)
     - Obtain your [API key](https://docs.brightdata.com/general/account/api-token)
-2. **Setup:** Follow the [step-by-step guide](https://github.com/triposat/Google-Search-API/blob/main/setup_serp_api.md) to integrate the SERP API into your Bright Data account
+2. **Setup:** Follow the [step-by-step guide](https://github.com/luminati-io/Google-Search-API/blob/main/setup_serp_api.md) to integrate the SERP API into your Bright Data account
 3. **Implementation Methods:**
     - Direct API Access
     - Native Proxy-Based Access
@@ -148,7 +148,7 @@ with open("serp_direct_api.json", "w") as file:
 print("Response saved to 'serp_direct_api.json'.")
 ```
 
-👉 View [full JSON output](https://github.com/triposat/Google-Search-API/blob/main/google_search_api_outputs/serp_direct_api.json)
+👉 View [full JSON output](https://github.com/luminati-io/Google-Search-API/blob/main/google_search_api_outputs/serp_direct_api.json)
 
 > **Note**: Use `brd_json=1` for parsed JSON or `brd_json=html` for parsed JSON + full nested HTML.
 
@@ -190,14 +190,14 @@ with open("serp_native_proxy.html", "w", encoding="utf-8") as file:
 print("Response saved to 'serp_native_proxy.html'.")
 ```
 
-👉 View [full HTML output](https://github.com/triposat/Google-Search-API/blob/main/google_search_api_outputs/serp_native_proxy.html)
+👉 View [full HTML output](https://github.com/luminati-io/Google-Search-API/blob/main/google_search_api_outputs/serp_native_proxy.html)
 
 For production, load Bright Data’s SSL certificate (see our [SSL Certificate Guide](https://docs.brightdata.com/general/account/ssl-certificate)).
 
 ## Advanced Features
 
 ### Localization
-<img width="700" alt="bright-data-google-search-api-screenshot-localization" src="https://github.com/user-attachments/assets/eb050c00-3c35-451b-a2d2-e98e16f91aee" />
+<img width="700" alt="bright-data-google-search-api-screenshot-localization" src="https://github.com/luminati-io/google-search-api/blob/main/images/416281053-eb050c00-3c35-451b-a2d2-e98e16f91aee.png" />
 
 
 1. `gl` (Country Code)
@@ -233,7 +233,7 @@ For production, load Bright Data’s SSL certificate (see our [SSL Certificate G
     ```
 
 ### Search Type
-<img width="700" alt="bright-data-google-search-api-screenshot-search-type" src="https://github.com/user-attachments/assets/49853108-5e3d-4062-831b-8d55711d5f54" />
+<img width="700" alt="bright-data-google-search-api-screenshot-search-type" src="https://github.com/luminati-io/google-search-api/blob/main/images/416280410-49853108-5e3d-4062-831b-8d55711d5f54.png" />
 
 1. `tbm` (Search Category)
     - Specifies a particular search type (images, news, etc.)
@@ -298,7 +298,7 @@ Navigate through pages of results or adjust the number of displayed results:
 
 
 ### Geo-Location
-<img width="700" alt="bright-data-google-search-api-screenshot-geolocation" src="https://github.com/user-attachments/assets/af64c770-0c8a-4007-9415-304d2e0c0fe8" />
+<img width="700" alt="bright-data-google-search-api-screenshot-geolocation" src="https://github.com/luminati-io/google-search-api/blob/main/images/416279186-af64c770-0c8a-4007-9415-304d2e0c0fe8.png" />
 
 The `uule` parameter customizes search results based on a specific location:
 
@@ -315,7 +315,7 @@ curl --proxy brd.superproxy.io:33335 \
 
 ### Device Type
 
-<img width="700" alt="bright-data-google-search-api-screenshot-device-type" src="https://github.com/user-attachments/assets/cf0f203f-5d62-4eb9-9d28-7a50d75c7a00" />
+<img width="700" alt="bright-data-google-search-api-screenshot-device-type" src="https://github.com/luminati-io/google-search-api/blob/main/images/416278511-cf0f203f-5d62-4eb9-9d28-7a50d75c7a00.png" />
 
 
 Use the `brd_mobile` parameter to simulate requests from specific devices:
@@ -338,7 +338,7 @@ curl --proxy brd.superproxy.io:33335 \
 ```
 
 ### Browser Type
-<img width="700" alt="bright-data-google-search-api-screenshot-browser-type" src="https://github.com/user-attachments/assets/df382cb0-0eb2-4fb1-982c-2fa3401cc83a" />
+<img width="700" alt="bright-data-google-search-api-screenshot-browser-type" src="https://github.com/luminati-io/google-search-api/blob/main/images/416277969-df382cb0-0eb2-4fb1-982c-2fa3401cc83a.png" />
 
 Use the `brd_browser` parameter to simulate requests from specific browsers:
 
@@ -393,7 +393,7 @@ Learn more in our [SERP API Parsing Guide](https://docs.brightdata.com/scraping-
 
 ### Hotel Search
 
-<img width="700" alt="bright-data-google-search-api-screenshot-google-hotels-search" src="https://github.com/user-attachments/assets/0859191a-47c0-4373-b3af-a1bc04ea54b1" />
+<img width="700" alt="bright-data-google-search-api-screenshot-google-hotels-search" src="https://github.com/luminati-io/google-search-api/blob/main/images/416277071-0859191a-47c0-4373-b3af-a1bc04ea54b1.png" />
 
 
 Refine hotel searches with these parameters:
@@ -482,7 +482,7 @@ Learn more about asynchronous requests [here](https://docs.brightdata.com/scrapi
 
 ### AI Overview
 
-<img width="700" alt="bright-data-google-search-api-screenshot-google-ai-overview" src="https://github.com/user-attachments/assets/3c7be724-e8d9-45ed-b781-017b1cbec9d4" />
+<img width="700" alt="bright-data-google-search-api-screenshot-google-ai-overview" src="https://github.com/luminati-io/google-search-api/blob/main/images/416276209-3c7be724-e8d9-45ed-b781-017b1cbec9d4.png" />
 
 Google sometimes includes AI-generated summaries (AI Overviews) at the top of search results. Use `brd_ai_mode=1` to increase the chances of seeing these AI-generated overviews:
 
